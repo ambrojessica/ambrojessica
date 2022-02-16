@@ -1,5 +1,6 @@
 # Hello <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-### My name is [Jessica](https://github.com/ambrojessica)! 🙋🏻‍♀️  
+### My name is [Jessica](https://github.com/ambrojessica)! 🙋🏻‍♀️ 
+
 
 #### About Me 🌹
 - 🍒 A 21 year old software engineer 
@@ -17,6 +18,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+  
   
   #### Contact Me 🌸
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ambrojessica)](https://twitter.com/ambrojessica)
