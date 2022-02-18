@@ -3,7 +3,7 @@
 
 
 #### About Me 🌹
-- 🍒 A 21 year old software engineer 
+- 🍒 21 year old software engineer 
 - 🌺 Pronouns: she/her 
 - 👩🏻‍💻 I am a student at Bloom Tech, currently studing Full-Stack Web Development
 - 💻 Languages: 
