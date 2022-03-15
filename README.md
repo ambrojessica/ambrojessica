@@ -6,7 +6,7 @@
 - 🍒 21 year old software engineer 
 - 🌺 Pronouns: she/her 
 - 👩🏻‍💻 I am a student at Bloom Tech, currently studing Full-Stack Web Development
-- 💻 Languages: 
+  💻 Languages: 
 - 🌐 Front-End:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
