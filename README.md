@@ -5,7 +5,8 @@
 #### About Me 🌹
 - 🍒 21 year old software engineer 
 - 🌺 Pronouns: she/her 
-- 👩🏻‍💻 I am a student at Bloom Tech, currently studying Full-Stack Web Development
+- 👩🏻‍💻 I went to a community college, for a little over a year and I wasn't sure of what to do!
+I had waited until after high school to get a job, and I knew working in customer service wasn't something I wanted to do for the rest of my life. Until I met FreeCodeCamp. I did the basic HTML and CSS and I was hooked! I will be graduating Bloom Tech soon and I have learned all of the Full-Stack courses, which include JavaScript, HTML, CSS, and many more! I am pursuing a career as a Front End Web Developer or Software Engineer.
 - 💻 Languages: 
 - 🌐 Front-End:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
