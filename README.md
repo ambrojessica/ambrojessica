@@ -21,7 +21,7 @@ I had waited until after high school to get a job, and I knew working in custome
   
   
   #### Contact Me 🌸
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ambrojessica)](https://twitter.com/ambrojessica)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ambrojessica0@gmail.com)](mailto:ambrojessica0@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ambrojessica)](https://github.com/ambrojessica)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ambrojessica)](https://twitter.com/ambrojessica)
   
