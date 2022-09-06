@@ -4,7 +4,8 @@
 
 #### About Me 🌹
 - 🌺 Pronouns: she/her 
-- 👩🏻‍💻 I am a bootcamp grad from Bloom Tech and I have learned all of the Full-Stack courses. I am pursuing a career as a Frontend Web Developer or Software Engineer.
+- 👩🏻‍💻 I am a bootcamp grad from BloomTech and I have learned all of the Full-Stack courses. 
+     I am pursuing a career as a Frontend Web Developer or Software Engineer.
 - 💻 Languages: 
 - 🌐 Front-End:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
