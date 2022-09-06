@@ -4,8 +4,7 @@
 
 #### About Me 🌹
 - 🌺 Pronouns: she/her 
-- 👩🏻‍💻 I went to a community college, for a little over a year and I wasn't sure of what to do!
-I had waited until after high school to get a job, and I knew working in customer service wasn't something I wanted to do for the rest of my life. Until I met FreeCodeCamp. I did the basic HTML and CSS and I was hooked! I will be graduating Bloom Tech soon and I have learned all of the Full-Stack courses. I am pursuing a career as a Front End Web Developer or Software Engineer.
+- 👩🏻‍💻 I am a bootcamp grad from Bloom Tech and I have learned all of the Full-Stack courses. I am pursuing a career as a Frontend Web Developer or Software Engineer.
 - 💻 Languages: 
 - 🌐 Front-End:
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
